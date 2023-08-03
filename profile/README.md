@@ -6,7 +6,7 @@ Un Discord pour les développeurs
 
 Créé en 2018, Creators Area regroupe aujourd'hui près de 10 000 développeurs passionnés. Notre Discord permet à nos membres de discuter, s'entraider, trouver des missions, ou simplement passer du bon temps ensemble !
 
-* 🖥️  N'hésitez pas à aller voir [notre site web](http://creatorsarea.fr)
+* 🖥️  N'hésitez pas à aller voir [notre site web](https://creatorsarea.fr)
 * ✉️  Vous pouvez nous contacter via zaros[at]creatorsarea.fr
 * 📡 Rejoins le [Discord des développeurs](https://discord.gg/gca)
 
