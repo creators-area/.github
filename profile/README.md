@@ -17,7 +17,7 @@ Créé en 2018, Creators Area regroupe aujourd'hui près de 10 000 développeurs
   </a>
 </p>
 
-### De quoi parle nos membres sur Discord ?
+### De quoi parlent nos membres sur Discord ?
 
 
 <p align="left">
