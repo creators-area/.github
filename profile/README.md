@@ -4,7 +4,7 @@ Hi 👋 My name is Creators Area
 Un Discord pour les développeurs
 --------------------------------
 
-Créé en 2018, Creators Area regroupe aujourd'hui près de 10 000 développeurs passionnés. Notre Discord permet à nos membres de discuter, s'entraider, trouver des missions, ou simplement passer du bon temps ensemble !
+Créé en 2018, Creators Area regroupe aujourd'hui près de 12 000 développeurs passionnés. Notre Discord permet à nos membres de discuter, s'entraider, trouver des missions, ou simplement passer du bon temps ensemble !
 
 * 🖥️  N'hésitez pas à aller voir [notre site web](https://creatorsarea.fr)
 * ✉️  Vous pouvez nous contacter via zaros[at]creatorsarea.fr
@@ -63,3 +63,11 @@ Créé en 2018, Creators Area regroupe aujourd'hui près de 10 000 développeurs
 
 <p align="left"> <a href="https://discord.gg/gca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/creators_area_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://twitter.com/intent/follow?screen_name=creators_area" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCo5CDchyGid8m5JIhC0qilw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+
+### Créer ton portfolio de développeur gratuitement !
+
+<p align="left">
+  <a href="https://www.developpeur.bio/" target="_blank">
+    <img src="https://www.developpeur.bio/developpeur.webp" width="960" height="541" />
+  </a>
+</p>
