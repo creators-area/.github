@@ -68,6 +68,6 @@ Créé en 2018, Creators Area regroupe aujourd'hui près de 12 000 développeurs
 
 <p align="left">
   <a href="https://www.developpeur.bio/" target="_blank">
-    <img src="https://www.developpeur.bio/developpeur.webp" width="960" height="541" />
+    <img src="https://www.developpeur.bio/developpeur.webp" width="640" height="360" />
   </a>
 </p>
